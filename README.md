@@ -84,6 +84,10 @@ furia_cs2/
 
 ![Versus] (Versus.png)
 
+### 🔹 Versus
+
+![Notificação E-mail] (Notificação E-mail.png)
+
 ---
 
 ## 🎯 Objetivo
