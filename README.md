@@ -15,6 +15,12 @@ O objetivo foi transformar dados públicos em **insights claros e acessíveis**,
 * **Versus (Head-to-Head)** com análise detalhada contra adversários específicos
 * **Desempenho por Tier e Formato** (MD3, MD5, etc.)
 
+## 📧 Automação
+
+O projeto conta com um sistema de envio de notificações por e-mail, desenvolvido em Python, que permite o disparo automático de informações relevantes, como próximas partidas da FURIA.
+
+Essa funcionalidade adiciona uma camada de automação ao projeto, aproximando-o de um cenário real de monitoramento de dados.
+
 ---
 
 ## 🧰 Tecnologias Utilizadas
@@ -71,7 +77,7 @@ furia_cs2/
 * `db.py`: Manipulação do banco de dados SQLite  
 * `furia_cs2.db`: Base consolidada utilizada no dashboard  
 * `players_manual.sql`: Script complementar para dados de jogadores  
-
+* `email_notify.py`: Responsável pelo envio de notificações automáticas por e-mail  
 ---
 
 ## 📎 Prints do Painel
