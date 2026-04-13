@@ -78,11 +78,11 @@ furia_cs2/
 
 ### 🔹 Visão Geral
 
-![Visão Geral](prints/visao_geral.png)
+![Visão Geral](Visão_Geral.png)
 
 ### 🔹 Versus
 
-![Versus](prints/versus.png)
+![Versus](Versus.png)
 
 ---
 
